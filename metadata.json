@@ -1,0 +1,233 @@
+{
+    "columns": {
+        "User": {
+            "sdtype": "id"
+        },
+        "Card": {
+            "sdtype": "id"
+        },
+        "Datetime": {
+            "sdtype": "datetime",
+            "format": "%Y-%m-%d %H:%M:%S"
+        },
+        "Year": {
+            "sdtype": "numerical"
+        },
+        "Month": {
+            "sdtype": "numerical"
+        },
+        "Weekday": {
+            "sdtype": "numerical"
+        },
+        "Hour": {
+            "sdtype": "numerical"
+        },
+        "Diff_Berfore_Trans_Time_Min": {
+            "sdtype": "numerical"
+        },
+        "Count_24h": {
+            "sdtype": "numerical"
+        },
+        "Count_7d": {
+            "sdtype": "numerical"
+        },
+        "Count_30d": {
+            "sdtype": "numerical"
+        },
+        "Amount": {
+            "sdtype": "numerical"
+        },
+        "Amount_Max_24h": {
+            "sdtype": "numerical"
+        },
+        "Amount_Mean_24h": {
+            "sdtype": "numerical"
+        },
+        "Amount_Max_7d": {
+            "sdtype": "numerical"
+        },
+        "Amount_Mean_7d": {
+            "sdtype": "numerical"
+        },
+        "Amount_Max_30d": {
+            "sdtype": "numerical"
+        },
+        "Amount_Mean_30d": {
+            "sdtype": "numerical"
+        },
+        "Amount_Max_Merchant": {
+            "sdtype": "numerical"
+        },
+        "Amount_Mean_Merchant": {
+            "sdtype": "numerical"
+        },
+        "Amount_Max_MCC": {
+            "sdtype": "numerical"
+        },
+        "Amount_Mean_MCC": {
+            "sdtype": "numerical"
+        },
+        "Use_Chip": {
+            "sdtype": "categorical"
+        },
+        "Merchant_City": {
+            "sdtype": "categorical"
+        },
+        "Before_City_Match": {
+            "sdtype": "categorical"
+        },
+        "Merchant_State": {
+            "sdtype": "categorical"
+        },
+        "Before_State_Match": {
+            "sdtype": "categorical"
+        },
+        "Merchant_State_New": {
+            "sdtype": "categorical"
+        },
+        "Zip": {
+            "sdtype": "categorical"
+        },
+        "Before_Zip_Match": {
+            "sdtype": "categorical"
+        },
+        "MCC": {
+            "sdtype": "numerical"
+        },
+        "Bad_Zipcode": {
+            "sdtype": "categorical"
+        },
+        "Bad_Card_Number": {
+            "sdtype": "categorical"
+        },
+        "Bad_Expiration": {
+            "sdtype": "categorical"
+        },
+        "Bad_CVV": {
+            "sdtype": "categorical"
+        },
+        "Insufficient_Balance": {
+            "sdtype": "categorical"
+        },
+        "Technical_Glitch": {
+            "sdtype": "categorical"
+        },
+        "Bad_PIN": {
+            "sdtype": "categorical"
+        },
+        "Current_Age": {
+            "sdtype": "numerical"
+        },
+        "Retirement_Age": {
+            "sdtype": "numerical"
+        },
+        "Retired": {
+            "sdtype": "numerical"
+        },
+        "Birth_Year": {
+            "sdtype": "numerical"
+        },
+        "Birth_Month": {
+            "sdtype": "numerical"
+        },
+        "Gender": {
+            "sdtype": "categorical"
+        },
+        "Apartment": {
+            "sdtype": "numerical"
+        },
+        "User_City": {
+            "sdtype": "categorical"
+        },
+        "User_State": {
+            "sdtype": "categorical"
+        },
+        "User_Zipcode": {
+            "sdtype": "categorical"
+        },
+        "Per_Capita_Income_Zipcode": {
+            "sdtype": "numerical"
+        },
+        "Yearly_Income_Person": {
+            "sdtype": "numerical"
+        },
+        "Total_Debt": {
+            "sdtype": "numerical"
+        },
+        "FICO_Score": {
+            "sdtype": "numerical"
+        },
+        "FICO_Score_Rank": {
+            "sdtype": "numerical"
+        },
+        "Num_Credit_Cards": {
+            "sdtype": "numerical"
+        },
+        "Card_Brand": {
+            "sdtype": "categorical"
+        },
+        "Card_Type": {
+            "sdtype": "categorical"
+        },
+        "Has_Chip": {
+            "sdtype": "categorical"
+        },
+        "Cards_Issued": {
+            "sdtype": "numerical"
+        },
+        "Credit_Limit": {
+            "sdtype": "numerical"
+        },
+        "Year_PIN_last_Changed": {
+            "sdtype": "numerical"
+        },
+        "Expires_Month": {
+            "sdtype": "numerical"
+        },
+        "Expires_Year": {
+            "sdtype": "numerical"
+        },
+        "Acct_Open_Month": {
+            "sdtype": "numerical"
+        },
+        "Acct_Open_Year": {
+            "sdtype": "numerical"
+        },
+        "Age": {
+            "sdtype": "numerical"
+        },
+        "User_City_Match": {
+            "sdtype": "categorical"
+        },
+        "User_State_Match": {
+            "sdtype": "categorical"
+        },
+        "User_Zip_Match": {
+            "sdtype": "categorical"
+        },
+        "Diff_Trans_Open": {
+            "sdtype": "numerical"
+        },
+        "Diff_Trans_Expires": {
+            "sdtype": "numerical"
+        },
+        "Amount_to_Income_Ratio": {
+            "sdtype": "numerical"
+        },
+        "Amount_to_LocalIncome_Ratio": {
+            "sdtype": "numerical"
+        },
+        "Debt_to_Income": {
+            "sdtype": "numerical"
+        },
+        "Debt_to_CreditLimit": {
+            "sdtype": "numerical"
+        },
+        "TotalBurden_to_Income": {
+            "sdtype": "numerical"
+        },
+        "Diff_Year_PIN_last_Changed": {
+            "sdtype": "numerical"
+        }
+    }
+}

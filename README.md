@@ -7,8 +7,7 @@ This project uses the **Kaggle credit card transactions dataset** to develop a m
   - Training a **LightGBM** model for fraud detection  
   - FastAPI-based RESTful service that loads the trained model for real-time predictions  
 
-> **Data Source**
-> [Kaggle - Credit Card Transactions](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions)
+> **Data Source** : [Kaggle - Credit Card Transactions](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions)
 
 
 ## How to Use
